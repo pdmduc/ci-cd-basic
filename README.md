@@ -1,4 +1,4 @@
-# The different between continuous integration and continious delivery.
+# Understanding continuous integration and continious delivery.
 
 ## In business or technical terms describe your understanding of continuous integration and continuous delivery (CI/CD)?
 
@@ -18,7 +18,7 @@ Continuous delivery takes over the final steps of the CI process to ensure that 
 
 Continuous delivery entails designing software so that it can be delivered to production at any moment. When ready, you can either manually initiate the deployments or switch to continuous deployment, in which case the deployments will also be automated.
 
-# What are some tools that are used for this and why are they used.
+## What are some tools that are used for this and why are they used.
 
 Software development teams might benefit from using CI/CD tools to automate the software creation and testing processes. Various techniques focus on different stages of the process, with some focusing on integration (CI), others on development and deployment (CD), and still others on continuous testing (or something similar). Below are some
 
