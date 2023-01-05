@@ -26,8 +26,7 @@ Software development teams might benefit from using CI/CD tools to automate the 
    Jenkins, an automation server, is one of the most well-known open source solutions for continuous integration and continuous delivery (CI/CD). Jenkins was built to handle anything, from a basic continuous integration server to a comprehensive continuous delivery centre.
 
 2. GitLab CI
-
-GitLab CI is a web application that maintains its state in a database and comes equipped with an API. In addition to providing the benefit of having all of GitLab's capabilities, it is also one of the top tools for managing projects and providing a user-friendly ui, making it one of the best tools for Continuous Integration.
+   GitLab CI is a web application that maintains its state in a database and comes equipped with an API. In addition to providing the benefit of having all of GitLab's capabilities, it is also one of the top tools for managing projects and providing a user-friendly ui, making it one of the best tools for Continuous Integration.
 
 # Reference Source
 
